@@ -1,2 +1,15 @@
-.env
+# Ignore Python cache
 __pycache__/
+*.pyc
+
+# Ignore environment file
+.env
+
+# Ignore database
+bakbak_bot.db
+
+# Ignore uploads
+uploads/
+
+# Ignore virtual environment
+venv/
