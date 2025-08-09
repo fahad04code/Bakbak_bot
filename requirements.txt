@@ -1,3 +1,4 @@
 streamlit
+sqlite3-binary
+pandas
 python-dotenv
-requests
