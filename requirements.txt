@@ -1,3 +1,5 @@
 streamlit
 pandas
+sqlalchemy
 python-dotenv
+passlib
